@@ -412,6 +412,7 @@ ehthumbs_vista.db
 # Dump file
 *.stackdump
 
+
 # Folder config file
 [Dd]esktop.ini
 
@@ -442,3 +443,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 appsettings.json
+
